@@ -1,0 +1,9 @@
+F:\spydf\soft\txtReadWrite\txtReadWrite\bin\Debug\txtReadWrite.exe.config
+F:\spydf\soft\txtReadWrite\txtReadWrite\bin\Debug\txtReadWrite.exe
+F:\spydf\soft\txtReadWrite\txtReadWrite\bin\Debug\txtReadWrite.pdb
+F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.csprojResolveAssemblyReference.cache
+F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.Form1.resources
+F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.Properties.Resources.resources
+F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.csproj.GenerateResource.Cache
+F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.exe
+F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.pdb
