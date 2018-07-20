@@ -7,3 +7,12 @@ F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.Properties.Resour
 F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.csproj.GenerateResource.Cache
 F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.exe
 F:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.pdb
+G:\spydf\soft\txtReadWrite\txtReadWrite\bin\Debug\txtReadWrite.exe.config
+G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.exe
+G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.pdb
+G:\spydf\soft\txtReadWrite\txtReadWrite\bin\Debug\txtReadWrite.exe
+G:\spydf\soft\txtReadWrite\txtReadWrite\bin\Debug\txtReadWrite.pdb
+G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.csprojResolveAssemblyReference.cache
+G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.Form1.resources
+G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.Properties.Resources.resources
+G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.csproj.GenerateResource.Cache

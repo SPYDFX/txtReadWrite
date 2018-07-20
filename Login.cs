@@ -24,7 +24,17 @@ namespace txtReadWrite
             strList.Add(model.userName);
             strList.Add(model.userPwd);
             strList.Add(model.isRemPwd==true?"1":"0");
-            isSuccess= TxtOperate.TxtWrite(strList);
+            string whereStr = string.Format("uAccount={0}", model.userName);
+            var dt=DbHelper.GetTableByTbNameAndWhereStr("userinfo", whereStr);
+            if(dt!=null&&dt.Rows.Count>0)
+            {
+                var user = dt.Rows[0];
+                if(user["uPwd"].ToString()==model.userPwd)
+                {
+                    TxtOperate.TxtWrite(strList);
+                    isSuccess = true;
+                }
+            }
             return isSuccess;
         }
         /// <summary>
