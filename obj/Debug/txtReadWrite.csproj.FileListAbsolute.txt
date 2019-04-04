@@ -16,3 +16,13 @@ G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.csprojResolveAsse
 G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.Form1.resources
 G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.Properties.Resources.resources
 G:\spydf\soft\txtReadWrite\txtReadWrite\obj\Debug\txtReadWrite.csproj.GenerateResource.Cache
+D:\软件\develop\project\GitHub\txtReadWrite\bin\Debug\txtReadWrite.exe.config
+D:\软件\develop\project\GitHub\txtReadWrite\bin\Debug\txtReadWrite.exe
+D:\软件\develop\project\GitHub\txtReadWrite\bin\Debug\txtReadWrite.pdb
+D:\软件\develop\project\GitHub\txtReadWrite\obj\Debug\txtReadWrite.csprojResolveAssemblyReference.cache
+D:\软件\develop\project\GitHub\txtReadWrite\obj\Debug\txtReadWrite.Form1.resources
+D:\软件\develop\project\GitHub\txtReadWrite\obj\Debug\txtReadWrite.Properties.Resources.resources
+D:\软件\develop\project\GitHub\txtReadWrite\obj\Debug\txtReadWrite.csproj.GenerateResource.Cache
+D:\软件\develop\project\GitHub\txtReadWrite\obj\Debug\txtReadWrite.csproj.CoreCompileInputs.cache
+D:\软件\develop\project\GitHub\txtReadWrite\obj\Debug\txtReadWrite.exe
+D:\软件\develop\project\GitHub\txtReadWrite\obj\Debug\txtReadWrite.pdb
